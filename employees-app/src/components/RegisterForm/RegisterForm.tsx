@@ -69,4 +69,4 @@ const RegisterForm = () => {
 
 export default RegisterForm;
 
-// skończyłem register form, zostało dodać do app, do interfaces
+// skończyłem register form, zostało dodać do App, do interfaces
